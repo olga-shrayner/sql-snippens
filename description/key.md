@@ -1,0 +1,1 @@
+tbd from https://www.bestprog.net/ru/2017/10/02/relational-databases-the-concept-of-a-key-types-of-keys-relations-master-table-and-detail-table_ru/

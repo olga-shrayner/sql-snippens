@@ -1,0 +1,1 @@
+tbd from https://ru.living-in-belgium.com/difference-between-t-sql-and-pl-sql-65

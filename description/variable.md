@@ -1,0 +1,1 @@
+tbd from https://andreyex.ru/mysql/peremennye-mysql/

@@ -1,0 +1,1 @@
+tbd from https://boodet.online/blog/relyacionnye-vs-nerelyacionnye-bazy-dannyh-otlichiya-i-preimushhestva
