@@ -18,14 +18,11 @@
 #### содержание
 
 1. теория баз данных - **/description/**
-
 2. вопросы на собеседование [part 1](https://techrocks.ru/2020/06/11/top-sql-interview-questions-1/)
-
 3. вопросы на собеседование [part 2](https://tproger.ru/articles/sql-interview-questions/)
-
-5. вопросы на собеседование [part 3](https://habr.com/ru/company/dcmiran/blog/500360/)
-
-3. циклы - **/loops/**
+4. вопросы на собеседование [part 3](https://habr.com/ru/company/dcmiran/blog/500360/)
+5. базовые операции - **/crud/**
+6. циклы - **/loops/**
 
 #### roadmap
 
